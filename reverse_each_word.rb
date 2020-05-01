@@ -7,3 +7,4 @@ string_array.collect do |element|
      end.join(" ")
    
 end
+
